@@ -30,8 +30,8 @@ DevOps Engineer with 3+ years of hands-on experience in CI/CD automation, contai
 ![ECS](https://img.shields.io/badge/ECS-FF9900?logo=amazonaws&logoColor=white)
 ![IAM](https://img.shields.io/badge/IAM-FF9900?logo=amazonaws&logoColor=white)
 ![S3](https://img.shields.io/badge/S3-569A31?logo=amazon-s3&logoColor=white)
-![S3](https://img.shields.io/badge/VPC-569A31?logo=amazon-s3&logoColor=white)
-![S3](https://img.shields.io/badge/ASG-569A31?logo=amazon-s3&logoColor=white)
+![S3](https://img.shields.io/badge/VPC-638C79?logo=amazon-s3&logoColor=white)
+![S3](https://img.shields.io/badge/ASG-963A35?logo=amazon-s3&logoColor=white)
 
 EC2 • ECR • ECS • IAM • S3 EKS • VPC • ASG • IAM • ELB 
 
