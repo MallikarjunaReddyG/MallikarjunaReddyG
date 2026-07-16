@@ -23,12 +23,12 @@ DevOps Engineer with 3+ years of hands-on experience in CI/CD automation, contai
 
 ### ☁️ Cloud Platform
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws)
-![EC2](https://img.shields.io/badge/EC2-FF9900?logo=amazonaws&logoColor=white)
-![EKS](https://img.shields.io/badge/EKS-FF9900?logo=amazonaws&logoColor=white)
-![ECR](https://img.shields.io/badge/ECR-FF9900?logo=amazonaws&logoColor=white)
-![ECS](https://img.shields.io/badge/ECS-FF9900?logo=amazonaws&logoColor=white)
-![IAM](https://img.shields.io/badge/IAM-FF9900?logo=amazonaws&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
+![EC2](https://img.shields.io/badge/EC2-AF9953?logo=amazonaws&logoColor=white)
+![EKS](https://img.shields.io/badge/EKS-MR9706?logo=amazonaws&logoColor=white)
+![ECR](https://img.shields.io/badge/ECR-GK8913?logo=amazonaws&logoColor=white)
+![ECS](https://img.shields.io/badge/ECS-CG7985?logo=amazonaws&logoColor=white)
+![IAM](https://img.shields.io/badge/IAM-GK9639?logo=amazonaws&logoColor=white)
 ![S3](https://img.shields.io/badge/S3-569A31?logo=amazon-s3&logoColor=white)
 ![S3](https://img.shields.io/badge/VPC-638C79?logo=amazon-s3&logoColor=white)
 ![S3](https://img.shields.io/badge/ASG-963A35?logo=amazon-s3&logoColor=white)
