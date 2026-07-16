@@ -128,7 +128,8 @@ Git • GitHub • Maven
 
 - LinkedIn: https://linkedin.com/in/mallikarjunareddy-gangireddy
 - GitHub: https://github.com/MallikarjunaReddyG
-- Email: mallikarjunag22001gmail.com     Email: mallikarjunareddy0902@gmail.com
+- Email: mallikarjunareddy0902@gmail.com
+- [![Alternate Email](https://img.shields.io/badge/Alternate_Email-EA4335?logo=gmail&logoColor=white)](mailto:mallikarjunag22001@gmail.com)
 
 ---
 
