@@ -1,6 +1,6 @@
-# Hi, I'm Mallikarjuna Reddy 👋
+# Hi, I'm Mallikarjuna Reddy Gangireddy 👋
 
-### DevOps Engineer | AWS | Kubernetes | Docker | Terraform | CI/CD Automation
+### DevOps Engineer | AWS | Kubernetes | Docker | Terraform | Jenkins | | Linux | Gthub | CI/CD Automation
 
 ![Profile Views](https://komarev.com/ghpvc/?username=MallikarjunaReddyG&label=Profile%20Views&color=0e75b6&style=flat)
 
@@ -8,9 +8,9 @@
 
 ## 👨‍💻 About Me
 
-DevOps Engineer with 3+ years of experience in CI/CD automation, containerized application deployments, cloud platforms, and Kubernetes orchestration. Skilled in building deployment pipelines, automating infrastructure, and improving application delivery through modern DevOps practices.
+DevOps Engineer with 3+ years of hands on experience in CI/CD automation, containerized application deployments, cloud platforms, and Kubernetes orchestration. Skilled in building deployment pipelines, automating infrastructure, and improving application delivery through modern end to end.
 
-- 🚀 DevOps Engineer with 3+ years of industry experience
+- 🚀 Working as a DevOps Engineer with 3+ years of industry experience
 - ☁️ Hands-on experience with AWS services including EC2, ECR, ECS, IAM, and S3
 - 🐳 Experienced in Docker, Kubernetes, Helm, and container orchestration
 - ⚙️ Skilled in Jenkins, GitHub, Terraform, and CI/CD automation
@@ -25,7 +25,7 @@ DevOps Engineer with 3+ years of experience in CI/CD automation, containerized a
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws)
 
-EC2 • ECR • ECS • IAM • S3
+EC2 • ECR • ECS • IAM • S3 EKS • VPC • ASG • IAM • ELB 
 
 ### 🐳 Containerization & Orchestration
 
@@ -39,8 +39,11 @@ Docker • Kubernetes • Helm
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?logo=terraform)
 ![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?logo=argo)
+![GitOps](https://img.shields.io/badge/GitOpsCD-EF7B4D?logo=argo)
 
 Jenkins • Terraform • Argo CD • GitOps
+
+Declarative Pipelines • GitHub Webhooks • Quality Gates • Automated Sync & Drift Self-Healing
 
 ### 📊 Monitoring & Observability
 
@@ -49,9 +52,13 @@ Jenkins • Terraform • Argo CD • GitOps
 
 Prometheus • Grafana
 
+Alerting Rules • Dashboards • Application Health Tracking
+
 ### 🔐 Security & Quality
 
 SonarQube • Trivy
+
+Vulnerability Scanning • OWASP Security Practices • Blocking Quality Gates in CI
 
 ### 💻 Operating Systems & Scripting
 
@@ -63,32 +70,15 @@ Git • GitHub • Maven
 
 ---
 
-## 📂 Featured Projects
-
-### 🚀 CI/CD and Kubernetes Deployment Platform on Amazon EKS
-
-- Developed an end-to-end application delivery platform integrating CI/CD automation, containerization, and Kubernetes orchestration.
-- Established a containerized application delivery workflow using Docker and Amazon ECR.
-- Orchestrated containerized applications on Amazon EKS, ensuring scalable and highly available application delivery.
-- Implemented GitOps-based deployment workflows using Argo CD.
-- Configured Prometheus and Grafana for application and infrastructure monitoring.
-
-### 📊 Retail Sales & Customer Analytics Platform
-
-- Designed a dimensional data warehouse using PostgreSQL.
-- Built fact and dimension models for business reporting.
-- Performed data transformation and analysis using SQL.
-- Developed Power BI dashboards for sales and customer insights.
-
----
-
 ## 📈 Key Achievements
 
-- Reduced deployment time by 40% through CI/CD automation.
-- Improved deployment consistency using Docker and containerized workflows.
-- Implemented GitOps-based deployments with Argo CD.
-- Automated infrastructure provisioning using Terraform.
-- Enhanced application visibility through Prometheus and Grafana monitoring.
+- ⚡Reduced deployment time by 40% through CI/CD automation with multi-stage jenkins pipeline.
+- 📦Improved deployment consistency using Docker and containerized workflows.
+- 🏗️Implemented GitOps-based deployments with Argo CD.
+- ☁️Automated infrastructure provisioning using Terraform.
+- 📊Enhanced application visibility through Prometheus and Grafana monitoring.
+- 🔄 Implemented blue-green and canary deployments on Kubernetes for near-zero-downtime releases.
+- 🔐 Embedded Trivy vulnerability scanning and OWASP security practices into CI/CD.
 
 ---
 
@@ -97,8 +87,8 @@ Git • GitHub • Maven
 - Advanced Kubernetes Administration
 - GitOps at Scale
 - AWS Security Best Practices
-- Infrastructure Automation
-- Platform Engineering
+- Infrastructure Automation & Cost Optimization
+- AIOPS
 
 ---
 
@@ -114,10 +104,12 @@ Git • GitHub • Maven
 
 ## 📫 Connect With Me
 
-- LinkedIn: https://linkedin.com/in/YOUR-LINKEDIN-ID
+- LinkedIn: https://linkedin.com/in/mallikarjunareddy-gangireddy
 - GitHub: https://github.com/MallikarjunaReddyG
-- Email: your-email@gmail.com
+- Email: mallikarjunag22001gmail.com     Email: mallikarjunareddy0902@gmail.com
 
 ---
+
+⭐ Thank you for visiting my profile! Let's connect build and grow something reliable together.
 
 ⭐ Thank you for visiting my profile. Feel free to explore my repositories and connect with me.
