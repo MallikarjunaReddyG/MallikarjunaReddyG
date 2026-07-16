@@ -1,6 +1,6 @@
 # Hi, I'm Mallikarjuna Reddy Gangireddy 👋
 
-### DevOps Engineer | AWS | Kubernetes | Docker | Terraform | Jenkins | | Linux | Gthub | CI/CD Automation
+### DevOps Engineer | AWS | Kubernetes | Docker | Terraform | Jenkins | | Linux | Github | CI/CD Automation
 
 ![Profile Views](https://komarev.com/ghpvc/?username=MallikarjunaReddyG&label=Profile%20Views&color=0e75b6&style=flat)
 
@@ -8,7 +8,7 @@
 
 ## 👨‍💻 About Me
 
-DevOps Engineer with 3+ years of hands on experience in CI/CD automation, containerized application deployments, cloud platforms, and Kubernetes orchestration. Skilled in building deployment pipelines, automating infrastructure, and improving application delivery through modern end to end.
+DevOps Engineer with 3+ years of hands-on experience in CI/CD automation, containerized application deployments, cloud platforms, and Kubernetes orchestration. Skilled in building deployment pipelines, automating infrastructure, and improving application delivery through modern DevOps culture.
 
 - 🚀 Working as a DevOps Engineer with 3+ years of industry experience
 - ☁️ Hands-on experience with AWS services including EC2, ECR, ECS, IAM, and S3
@@ -24,6 +24,14 @@ DevOps Engineer with 3+ years of hands on experience in CI/CD automation, contai
 ### ☁️ Cloud Platform
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws)
+![EC2](https://img.shields.io/badge/EC2-FF9900?logo=amazonaws&logoColor=white)
+![EKS](https://img.shields.io/badge/EKS-FF9900?logo=amazonaws&logoColor=white)
+![ECR](https://img.shields.io/badge/ECR-FF9900?logo=amazonaws&logoColor=white)
+![ECS](https://img.shields.io/badge/ECS-FF9900?logo=amazonaws&logoColor=white)
+![IAM](https://img.shields.io/badge/IAM-FF9900?logo=amazonaws&logoColor=white)
+![S3](https://img.shields.io/badge/S3-569A31?logo=amazon-s3&logoColor=white)
+![S3](https://img.shields.io/badge/VPC-569A31?logo=amazon-s3&logoColor=white)
+![S3](https://img.shields.io/badge/ASG-569A31?logo=amazon-s3&logoColor=white)
 
 EC2 • ECR • ECS • IAM • S3 EKS • VPC • ASG • IAM • ELB 
 
@@ -31,6 +39,7 @@ EC2 • ECR • ECS • IAM • S3 EKS • VPC • ASG • IAM • ELB
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes)
+![Helm](https://img.shields.io/badge/Helm-231C689?logo=Helm)
 
 Docker • Kubernetes • Helm
 
@@ -39,7 +48,7 @@ Docker • Kubernetes • Helm
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?logo=terraform)
 ![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?logo=argo)
-![GitOps](https://img.shields.io/badge/GitOpsCD-EF7B4D?logo=argo)
+![GitOps](https://img.shields.io/badge/GitOpsCD-326CE5?logo=argo)
 
 Jenkins • Terraform • Argo CD • GitOps
 
@@ -56,15 +65,28 @@ Alerting Rules • Dashboards • Application Health Tracking
 
 ### 🔐 Security & Quality
 
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?logo=sonarqube&logoColor=white)
+![Trivy](https://img.shields.io/badge/Trivy-1904DA?logo=aqua&logoColor=white)
+
 SonarQube • Trivy
 
 Vulnerability Scanning • OWASP Security Practices • Blocking Quality Gates in CI
 
+
 ### 💻 Operating Systems & Scripting
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 
 Linux • Bash • Python
 
+
 ### 🔄 Version Control & Build Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?logo=apachemaven&logoColor=white)
 
 Git • GitHub • Maven
 
@@ -110,6 +132,6 @@ Git • GitHub • Maven
 
 ---
 
-⭐ Thank you for visiting my profile! Let's connect build and grow something reliable together.
 
-⭐ Thank you for visiting my profile. Feel free to explore my repositories and connect with me.
+
+⭐ Thank you for visiting my profile. Feel free to explore my repositories and connect with together build and grow.
